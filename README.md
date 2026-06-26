@@ -108,7 +108,7 @@
 
 # ⚡ Quote
 
-> **Learning every day .Building for tomorrow.** 🚀
+> **Learning every day. Building for tomorrow.** 🚀
 
 ---
 
