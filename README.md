@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=200&section=header&text=Sreenath%20Pothineni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+# Sreenath Pothineni
 
-<a href="https://github.com/sreenath630">
-<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Certified+%E2%98%81%EF%B8%8F;Ex-IT+Asset+Management+%40+Siemens+Healthineers;Currently+Building+a+MERN+Stack+Project;Open+to+Work+%F0%9F%9F%A2&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
-</a>
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Certified+%E2%98%81%EF%B8%8F;Ex-IT+Asset+Management+%40+Siemens;Currently+Open+to+Work+%F0%9F%9F%A2&animation=typing&font=Fira+Code&size=22&color=58A6FF&width=650&height=45" alt="Typing animation"/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
@@ -82,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer"/>
+---
 
 <img src="https://komarev.com/ghpvc/?username=sreenath630&style=for-the-badge&color=blueviolet" alt="profile views"/>
 
