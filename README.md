@@ -19,7 +19,7 @@
 # 🚀 About Me
 
 - 🎓 BCA 2nd Year Student @ PVKK Institute of Technology, Anantapur
-- 💼 Ex-IT Asset Management Executive @ Siemens Healthineers (2 Years Experience)
+- 💼 Ex-IT Asset Management Executive @ Siemens Healthineers (1 Year Experience)
 - ☁️ Learning Cloud Computing & DevOps
 - 💻 Passionate about Java, Linux, AWS & Web Development
 - 🎯 Looking for IT Asset Management / Desktop Support / Cloud / DevOps opportunities
