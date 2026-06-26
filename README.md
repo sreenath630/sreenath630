@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Sreenath Pothineni
 
-<!--
-**sreenath630/Sreenath630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+🎓 BCA Student (PVKK Institute of Technology)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend Developer
+
+🏢 Ex IT Asset Management @ Siemens Healthineers
+
+🌱 Currently Learning:
+- AWS
+- Linux
+- Java
+- Git & GitHub
+- HTML, CSS & JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git
+- GitHub
+- Linux
+- AWS (Learning)
+
+---
+
+## 🚀 Projects
+
+- ✅ Portfolio Website
+- ✅ Calculator
+- ✅ To-Do List
+- 🚧 Weather App (Coming Soon)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreenath630&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenath630&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sreenath630&theme=tokyonight)
+
+---
+
+### ⭐ Thanks for visiting my profile!
