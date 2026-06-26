@@ -1,52 +1,91 @@
-# 👋 Hi, I'm Sreenath Pothineni
+<div align="center">
 
-## ☁️ Aspiring Cloud & DevOps Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=200&section=header&text=Sreenath%20Pothineni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-🎓 BCA Student (PVKK Institute of Technology)
+<a href="https://github.com/sreenath630">
+<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+Certified+%E2%98%81%EF%B8%8F;Ex-IT+Asset+Management+%40+Siemens+Healthineers;Currently+Building+a+MERN+Stack+Project;Open+to+Work+%F0%9F%9F%A2&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
+</a>
 
-💻 Frontend Developer
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
-🏢 Ex IT Asset Management @ Siemens Healthineers
-
-🌱 Currently Learning:
-- AWS
-- Linux
-- Java
-- Git & GitHub
-- HTML, CSS & JavaScript
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧭 About Me
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- Git
-- GitHub
-- Linux
-- AWS (Learning)
+- 🎓 BCA 2nd Year Student @ PVKK Institute of Technology, Anantapur
+- ☁️ **AWS Certified** — Cloud Practitioner Essentials (2026)
+- 💼 ~2 years experience as **IT Asset Management Executive** @ Siemens Healthineers
+- 🌱 Currently building a **full-stack MERN project** — Job Application Tracker
+- 🎯 Actively pursuing roles in **Cloud/DevOps, IT Asset Management & Desktop Support**
+- 🟢 **Currently:** Interviewing with companies for ITAM / Desktop Support / Cloud roles
 
 ---
 
-## 🚀 Projects
+### 💼 What I'm Building
 
-- ✅ Portfolio Website
-- ✅ Calculator
-- ✅ To-Do List
-- 🚧 Weather App (Coming Soon)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreenath630&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenath630&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sreenath630&theme=tokyonight)
+| Project | Tech Stack | Live Demo | Repo |
+|---|---|---|---|
+| Portfolio Website | HTML, CSS, JS, SEO | [View](https://sreenath630.github.io/profile-card) | [Code](https://github.com/sreenath630/profile-card) |
+| Job Application Tracker | MERN Stack | Coming Soon | Coming Soon |
+| Weather Dashboard | JavaScript, OpenWeatherMap API | View | Code |
+| SpeakUp Voice Practice App | JavaScript, Web Speech API | View | Code |
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### 📄 Resume & Contact
+
+<p align="center">
+<a href="mailto:sreesree41002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR-RESUME-LINK" target="_blank">
+<img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,aws,linux,git,github,vscode,figma&theme=dark"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sreenath630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenath630&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenath630&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreenath630&theme=tokyo-night&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🏆 Certifications
+
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=sreenath630&style=for-the-badge&color=blueviolet" alt="profile views"/>
+
+**Thanks for visiting! Let's connect 🤝**
+
+</div>
