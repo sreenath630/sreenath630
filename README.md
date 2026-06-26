@@ -1,80 +1,119 @@
 <div align="center">
 
-# Sreenath Pothineni
+# 👋 Hi, I'm Sreenath Pothineni
 
 ### ☁️ Aspiring Cloud & DevOps Engineer | Ex-IT Asset Management @ Siemens Healthineers
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+Engineer;DevOps+Learner;Java+Learner;Frontend+Developer;Open+to+Work"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=briefcase&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=sreenath630&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-### 🧭 About Me
+# 🚀 About Me
 
 - 🎓 BCA 2nd Year Student @ PVKK Institute of Technology, Anantapur
-- 💼 ~2 years experience as **IT Asset Management Executive** @ Siemens Healthineers
-- 🎯 Actively pursuing roles in **Cloud/DevOps, IT Asset Management & Desktop Support**
-- 🟢 Currently interviewing with companies for ITAM / Desktop Support / Cloud roles
+- 💼 Ex-IT Asset Management Executive @ Siemens Healthineers (2 Years Experience)
+- ☁️ Learning Cloud Computing & DevOps
+- 💻 Passionate about Java, Linux, AWS & Web Development
+- 🎯 Looking for IT Asset Management / Desktop Support / Cloud / DevOps opportunities
 
 ---
 
-### ✅ What I Know
+# 🛠️ Tech Stack
 
-`HTML` · `CSS` · `JavaScript` · `Git & GitHub` · `AWS (Cloud Practitioner)`
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,linux,aws,vscode&theme=dark"/>
 
-### 🌱 What I'm Learning Next
-
-- JavaScript Fundamentals — going deeper
-- Ubuntu OS — full install & daily usage
-- **Job Application Tracker** — my next build
+</p>
 
 ---
 
-### 💼 Projects
+# 🌱 Currently Learning
 
-| Project | Tech Stack | Live Demo |
-|---|---|---|
-| Portfolio Website | HTML, CSS, JS, SEO | [View](https://sreenath630.github.io/profile-card) |
-| Weather Dashboard | JavaScript, OpenWeatherMap API | View |
-| SpeakUp Voice Practice App | JavaScript, Web Speech API | View |
+- ☕ Java Programming
+- 🐧 Ubuntu Linux
+- ☁️ AWS Cloud
+- 🔧 Git & GitHub
+- 🌐 JavaScript
+- 🚀 DevOps Fundamentals
 
 ---
 
-### 🏆 Certifications
+# 💼 Featured Projects
+
+| Project | Description | Status |
+|----------|-------------|--------|
+| 🌐 Portfolio Website | Personal Portfolio | ✅ Completed |
+| 🌦 Weather Dashboard | Weather App using API | 🚧 In Progress |
+| 🎤 SpeakUp Voice Practice | Speech Practice Web App | 🚧 In Progress |
+| 📋 Job Application Tracker | Track Applied Jobs | 🚀 Coming Soon |
+
+---
+
+# 🏆 Certification
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,aws,vscode&theme=dark"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sreenath630&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreenath630&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreenath630&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenath630&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenath630&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 📄 Connect
+# 📫 Connect With Me
 
 <p align="center">
+
 <a href="mailto:sreesree41002@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/sreenath630">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sreenath630&style=for-the-badge&color=blueviolet" alt="profile views"/>
+---
+
+# ⚡ Quote
+
+> **Learning every day .Building for tomorrow.** 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
